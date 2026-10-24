@@ -1,11 +1,11 @@
 {
-  "name": "@red-cup-engineering/hashkings-services-section",
+  "name": "@red-cup-engineering/hashkings-engineering-services-section",
   "version": "0.1.1",
   "type": "module",
   "description": "Read-only HashKings recovery observation: exact-arithmetic BUDS pool-exit quoting and a conservative preserve-custody vs. review-recovery classification for a game whose web client has repeatedly parked behind a redirect lander.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/hashkings-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/hashkings-engineering-services-section.git"
   },
   "engines": {
     "node": ">=22.18"
